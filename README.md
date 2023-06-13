@@ -17,7 +17,7 @@ The Guerrilla Mail JSON API provides a simple way to generate temporary email ad
 1. Clone the repository:
 
    ```shell
-   git clone <repository-url>
+   git clone https://github.com/spix-777/GuerrillaMailAPI
 
 2. Build the program:
 
